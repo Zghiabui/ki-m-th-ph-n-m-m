@@ -7,7 +7,8 @@
 
 ## 2. Kết quả thực hiện (Results)
 Dưới đây là kết quả bài kiểm tra của tôi:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4c3ba76-8ed4-4875-95ad-6f0efceaf253" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2e7e699-ad78-4956-b262-139fb5c19f0c" />
+
 
 ## 3. Phân tích & Bài học (Key Takeaways)
 Qua bài tập này, tôi đã học được cách phân biệt các lỗi UI thường gặp như:
